@@ -8,4 +8,4 @@ jobs:
   deploy:
     uses: miandada/helloworldjs/.github/workflows/workflow.yml@main
     with:
-      working-directory: my-app
+      working-dir: my-app
